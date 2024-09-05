@@ -81,7 +81,6 @@ function ShowCard() {
                     </div>
                     <hr/>
                           <CardProduct/> 
-                
                 </div>
             </div>
 
